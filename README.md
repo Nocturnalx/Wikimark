@@ -103,5 +103,5 @@ Allowed elements:
 - `<img>`
 - `<iframe>`
 
-#### Future plans
+## Future plans
 Currently `<a>` tags are not included in the parser as I have only written it to be a line by line thing, however, I am planning on creating a short hand for this. For now though you will just have to write them out as we have been doing as direct HTML tags within the corpus.
