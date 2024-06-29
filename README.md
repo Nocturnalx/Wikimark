@@ -79,9 +79,10 @@ It might be a pair of short paragraphs or something.
 ```
 The resulting HTML generated will look like:
 ```
-<span>"This quote has two lines."</span> << quote HTML
+<span>"This quote has two lines."</span>               << quote HTML
 It might be a pair of short paragraphs or something. 
-    ^^ This line here is outside of the quotes
+
+^^ This line here is outside of the quotes
 ```
 So it is important that you make sure everything is on the same line:
 ```
