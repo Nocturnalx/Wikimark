@@ -1,5 +1,5 @@
 # Wikimark
-This document details how to use wikimark, why it was made and how it works.
+This document details how to use wikimark, why it was made, and how it works.
 
 **Why?** - Wikimark was made to provide short hand syntax for the common and essential HTML used in the utladal wiki in order to bring better quality of life for editors. This should both speed up wpm, be less confusing, and less prone to errors than having to write out the full HTML syntax for each element.
 
