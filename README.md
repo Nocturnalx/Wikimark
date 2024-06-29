@@ -15,7 +15,7 @@ This section contains a cheat sheet you can quickly refer back to when creating 
 |Embedded Video|`(vid)(https://youtube.com/watch?v=videoID)`|
 |Image|`(img)(https://i.imgur.com/imgID.xyz)`|
 
-**Please note** - *the parser works on a line by line basis meaning that if you include a new line(press enter) in the succeding text the text after the new line will be excluded from the generated html. - See the "Line by Line" section under "How does the wiki parser work?"*
+**Please note** - *the parser works on a line by line basis meaning that if you include a new line(press enter) in the succeding text, the text after the new line will be excluded from the generated html. - See the "Line by Line" section under "How does the wiki parser work?"*
 
 ### Detailed outline
 1. **Bold - (b)**
