@@ -33,16 +33,16 @@ This section contains a cheat sheet you can quickly refer back to when creating 
     
     List of common browser safe fonts:
 
-        |Font (desc)|Wikimark|
-        |---|---|
-        |Arial (sans-serif) | (font)(Arial)|
-        |Verdana (sans-serif) | (font)(Verdana)|
-        |Tahoma (sans-serif) | (font)(Tahoma)|
-        |Times New Roman (serif) | (font)(Times New Roman)|
-        |Georgia (serif) | (font)(Georgia)|
-        |Garamond (serif) | (font)(Garamond)|
-        |Courier New (monospace) | (font)(Courier New)|
-        |Brush Script MT (cursive) | (font)(Brush Script MT)|
+    |Font (desc)|Wikimark|
+    |---|---|
+    |Arial (sans-serif) | (font)(Arial)|
+    |Verdana (sans-serif) | (font)(Verdana)|
+    |Tahoma (sans-serif) | (font)(Tahoma)|
+    |Times New Roman (serif) | (font)(Times New Roman)|
+    |Georgia (serif) | (font)(Georgia)|
+    |Garamond (serif) | (font)(Garamond)|
+    |Courier New (monospace) | (font)(Courier New)|
+    |Brush Script MT (cursive) | (font)(Brush Script MT)|
 
 4. **Video - (vid)**
     - Usage: `(vid)(https://youtube.com/watch?v=videoID)`
