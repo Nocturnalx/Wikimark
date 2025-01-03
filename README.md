@@ -6,6 +6,8 @@ This document details how to use wikimark, why it was made, and how it works.
 ## How to use
 This section contains a cheat sheet you can quickly refer back to when creating new entries on the wiki, as well as a more in depth explanation of each tag.
 
+**Remember** - Bold tags are used for titling! Inline html bold tags <b> are fine for making text stand out but the wikimark parser assumes all lines starting with a (b) tag are chapter titles. 
+
 ### Cheat sheet
 |Effect|Tag|
 |---|---|
@@ -21,6 +23,7 @@ This section contains a cheat sheet you can quickly refer back to when creating 
 1. **Bold - (b)**
     - Usage: `(b)Text goes here.`
     - Effect: This will place the subsequent text into a html `<b>` tag. i.e. `<b>Text goes here</b>`
+    - Bold tags should only be used for titling, the parser looks for bold tags to extract the chapter titles which are displayed on the left.
 
 2. **Quote - (quote)**
     - Usage: `(quote)Text goes here.`
