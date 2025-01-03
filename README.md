@@ -6,7 +6,7 @@ This document details how to use wikimark, why it was made, and how it works.
 ## How to use
 This section contains a cheat sheet you can quickly refer back to when creating new entries on the wiki, as well as a more in depth explanation of each tag.
 
-**Remember** - Bold tags are used for titling! Inline html bold tags <b> are fine for making text stand out but the wikimark parser assumes all lines starting with a (b) tag are chapter titles. 
+**Remember** - Bold tags are used for titling! Inline html bold tags `<b>` are fine for making text stand out but the wikimark parser assumes all lines starting with a (b) tag are chapter titles. 
 
 ### Cheat sheet
 |Effect|Tag|
